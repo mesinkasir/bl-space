@@ -6,7 +6,7 @@ Demo : [https://axcora.my.id/bludit/space/](https://axcora.my.id/bludit/space/)
 
 Documentation : [https://axcora.my.id/bludit/space/installation](https://axcora.my.id/bludit/space/installation)
 
-If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
+If you need built simple fast website with flatfile cms [hire me →](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
 ![free download premium web bludit template gratis](spacebanner.webp)
 
@@ -14,7 +14,7 @@ Demo : [https://axcora.my.id/bludit/space/](https://axcora.my.id/bludit/space/)
 
 Documentation : [https://axcora.my.id/bludit/space/installation](https://axcora.my.id/bludit/space/installation)
 
-If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
+If you need built simple fast website with flatfile cms [hire me →](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
 --------
 
@@ -58,4 +58,4 @@ Demo : [https://axcora.my.id/bludit/space/](https://axcora.my.id/bludit/space/)
 
 Documentation : [https://axcora.my.id/bludit/space/installation](https://axcora.my.id/bludit/space/installation)
 
-If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
+If you need built simple fast website with flatfile cms [hire me →](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
