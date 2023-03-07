@@ -2,7 +2,7 @@
 <html lang="<?php echo Theme::lang() ?>">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="lO3pNP7czUCL3XA6pca2iX1eKo91FdnRZ5ikLWKxrrc" />
 <?php echo Theme::metaTagTitle(); ?>
 <?php echo Theme::metaTagDescription(); ?>
