@@ -6,6 +6,8 @@ Demo : [https://axcora.my.id/bludit/space/](https://axcora.my.id/bludit/space/)
 
 Documentation : [https://axcora.my.id/bludit/space/installation](https://axcora.my.id/bludit/space/installation)
 
+Home page : [https://bludit.axcora.com/](https://bludit.axcora.com/)
+
 If you need built simple fast website with flatfile cms [hire me →](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
 ![free download premium web bludit template gratis](spacebanner.webp)
@@ -57,6 +59,8 @@ Contact Section
 Demo : [https://axcora.my.id/bludit/space/](https://axcora.my.id/bludit/space/)
 
 Documentation : [https://axcora.my.id/bludit/space/installation](https://axcora.my.id/bludit/space/installation)
+
+Home page : [https://bludit.axcora.com/](https://bludit.axcora.com/)
 
 If you need built simple fast website with flatfile cms [hire me →](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
