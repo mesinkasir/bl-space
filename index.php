@@ -28,5 +28,6 @@
 <?php include(THEME_DIR_PHP.'footer.php'); ?>
 <?php Theme::plugins('siteBodyEnd'); ?>
 </div>
+<?php echo Theme::jquery(); ?>
 </body>
 </html>
