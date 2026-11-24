@@ -2,6 +2,8 @@
 
 space website template for bludit flatfile cms
 
+Download New Version: https://creativitaz.gumroad.com/l/bl-space
+
 Demo : [https://axcora.my.id/bludit/space/](https://axcora.my.id/bludit/space/) 
 
 Documentation : [https://axcora.my.id/bludit/space/installation](https://axcora.my.id/bludit/space/installation)
